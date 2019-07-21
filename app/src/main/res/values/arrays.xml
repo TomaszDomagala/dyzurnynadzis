@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="on_duties_introductions">
+        <item>W tym tygodniu po kredę idą</item>
+        <item>W tym tygodniu dyżurnymi są</item>
+        <item>Opieprz nauczycieli biorą na siebie</item>
+        <item>W tym tygodniu gąbki moczą</item>
+        <item>W tym tygodniu tablice ścierają</item>
+        <item>W tym tygodniu po mazaki chodzą</item>
+        <item>W tym tygodniu salę wietrzą</item>
+        <item>W tym tygodniu ciężko pracują</item>
+        <item>Biurko pani Kucharz zamiatają</item>
+
+    </string-array>
+    <string-array name="weekend_texts">
+        <item>wracajcie bezpiecznie ;-)</item>
+        <item>za tydzień kartkówka z przyrki</item>
+        <item>a w poniedziałek ruski ;/</item>
+        <item>mam nadzieję że pogoda dopisuje</item>
+        <item>a za rok maturka</item>
+        <item>czas na opierdoling</item>
+        <item>Stępień pewnie na rybach</item>
+        <item>a Stąpor pewnie w szkole [*]</item>
+        <item>404 funny_text not found</item>
+        <item>cieszcie się, póki możecie</item>
+    </string-array>
+
+</resources>

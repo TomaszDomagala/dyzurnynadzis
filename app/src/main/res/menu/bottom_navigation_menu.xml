@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_navigation_on_duties_item"
+        android:enabled="true"
+        android:icon="@drawable/bottom_navigation_on_duties"
+        android:title="@string/bottom_drawer_on_duties"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/bottom_navigation_second_item"
+        android:enabled="true"
+        android:icon="@drawable/bottom_navigation_fle"
+        android:title="@string/bottom_drawer_fle"
+        app:showAsAction="ifRoom" />
+    <!--<item-->
+        <!--android:id="@+id/bottom_navigation_third_item"-->
+        <!--android:enabled="true"-->
+        <!--android:icon="@drawable/bottom_navigation_third"-->
+        <!--android:title="@string/bottom_drawer_third"-->
+        <!--app:showAsAction="ifRoom" />-->
+</menu>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dyzurnynadzis</string>
+
+    <string name="on_duties_introduction_placeholder">On duties information</string>
+    <string name="first_on_duty_placeholder">John Doe</string>
+    <string name="second_on_duty_placeholder">Jane Doe</string>
+    <string name="current_school_week_introduction">Aktualny tydzień:</string>
+    <string name="working_day_bottom_text_placeholder">Powodzenia ;-)</string>
+
+    <string name="weekend_main_text_placeholder">WEEKEND!!</string>
+    <string name="weekend_bottom_text_placeholder">Wracajcie bezpiecznie ;-)</string>
+    <string name="weekend_on_duties_introduction">W następnym tygodniu dyżurnymi będą</string>
+
+    <string name="bottom_drawer_on_duties">Dyżurni</string>
+    <string name="bottom_drawer_fle">Grupa wdż</string>
+    <string name="bottom_drawer_third">Third</string>
+
+    <string name="group_introduction">Grupa </string>
+
+</resources>
